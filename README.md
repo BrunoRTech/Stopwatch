@@ -1,6 +1,6 @@
 # Stopwatch
 
-This is a simple, responsive stopwatch application built with **HTML**, **CSS**, and **JavaScript**. It allows users to easily start, stop, and reset time and features a clean and minimal user interface.
+This is a simple, responsive stopwatch application built with **HTML**, **CSS**, and **JavaScript**, created using the guide provided by [Coddy.tech](https://coddy.tech/courses/stopwatch__htmlcssjs_project). It allows users to easily start, stop, and reset time and features a clean and minimal user interface.
 
 ## Features
 - **Start, Stop, and Reset**: Easily control the stopwatch with intuitive buttons.
@@ -24,7 +24,10 @@ To use the stopwatch:
 2. Open `index.html` in a web browser to view the stopwatch.
 3. Click "Start" to begin timing, "Stop" to pause, and "Reset" to clear the timer.
 
-### Changing the Background Color
+## Changing the Background Color
 If you'd like to customize the background color:
-- Open `styles.css`.
-- Modify the `background` property in the `body` selector (line 4).
+1. Open `styles.css`.
+2. Modify the `background` property in the `body` selector (line 4).
+
+## Acknowledgment
+This project was built using the guide provided by Coddy.tech. The original project can be found [here](https://coddy.tech/courses/stopwatch__htmlcssjs_project).
